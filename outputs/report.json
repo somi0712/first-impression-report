@@ -1,0 +1,202 @@
+{
+ "report": {
+  "summary": "따뜻하고 빈티지한 분위기 속에서 음식, 여행, 예술에 대한 애정이 느껴지는 계정입니다.",
+  "keywords": [
+   {
+    "word": "화려한",
+    "reason": "디저트 사진 5번과 꽃 그림 사진 8번이 밝고 선명한 색상으로 눈길을 끕니다.",
+    "photos": [
+     5,
+     8
+    ]
+   },
+   {
+    "word": "전문적인",
+    "reason": "노트에 필기하는 사진 2번이 업무나 학습에 대한 진지함을 암시하지만, 직무 키워드가 부족하여 전문성은 제한적입니다.",
+    "photos": [
+     2,
+     1
+    ]
+   },
+   {
+    "word": "아늑한",
+    "reason": "갈색 소파 사진 3번과 침대 위 그림 사진 9번이 편안하고 따뜻한 분위기를 연출합니다.",
+    "photos": [
+     3,
+     9
+    ]
+   },
+   {
+    "word": "빈티지한",
+    "reason": "오래된 포스터 사진 6번과 낡은 느낌의 그림 사진 9번이 빈티지 스타일을 강조합니다.",
+    "photos": [
+     6,
+     9
+    ]
+   },
+   {
+    "word": "성실한",
+    "reason": "노트 필기 사진 2번과 여행 사진들이 꾸준히 활동적인 모습을 보여줍니다.",
+    "photos": [
+     2,
+     1
+    ]
+   }
+  ],
+  "suggestions": [
+   {
+    "area": "대표 이미지",
+    "action": "노트 필기 사진 2번과 여행 사진 7번을 첫 화면에 배치하여 일관된 주제를 강조하고, 사진 9번은 하이라이트로 옮기기",
+    "why": "현재 사진들이 분산되어 있어 무엇을 주로 다루는지 명확하지 않습니다.",
+    "source": "G02"
+   },
+   {
+    "area": "색감",
+    "action": "팔레트 전체에 일관된 필터를 적용하여 사진 간의 톤을 맞춥니다. 특히 사진 4번과 8번은 보정을 통해 전체 팔레트와 조화롭게 만들기",
+    "why": "사진마다 톤이 다르므로 피드가 산만해 보일 수 있습니다.",
+    "source": "G05"
+   },
+   {
+    "area": "소개글",
+    "action": "이모지 뒤에 '예술과 여행을 사랑하는 ☕☕ 블로거' 와 같이 간결하게 자기소개를 추가합니다.",
+    "why": "현재 소개글은 감성적이지만, 계정의 특징을 명확히 드러내기에는 부족합니다.",
+    "source": "G12"
+   }
+  ]
+ },
+ "issues": [],
+ "color": {
+  "palette": [
+   [
+    "#a48468",
+    0.284
+   ],
+   [
+    "#69534a",
+    0.243
+   ],
+   [
+    "#cdbea7",
+    0.239
+   ],
+   [
+    "#232821",
+    0.187
+   ],
+   [
+    "#1387ea",
+    0.046
+   ]
+  ],
+  "brightness": 0.567,
+  "saturation": 0.369,
+  "unity": 0.265,
+  "outlier_photo": 4,
+  "labels": [
+   "사진마다 톤이 다르다"
+  ],
+  "per_photo_overlap": [
+   0.278,
+   0.258,
+   0.343,
+   0.054,
+   0.294,
+   0.262,
+   0.24,
+   0.288,
+   0.364
+  ]
+ },
+ "clip_top5": [
+  {
+   "id": "fancy",
+   "ko": "화려한",
+   "group": "분위기",
+   "score": 0.2511,
+   "photos": [
+    8,
+    5
+   ]
+  },
+  {
+   "id": "professional",
+   "ko": "전문적인",
+   "group": "성향",
+   "score": 0.0785,
+   "photos": [
+    2,
+    1
+   ]
+  },
+  {
+   "id": "cozy",
+   "ko": "아늑한",
+   "group": "분위기",
+   "score": 0.0756,
+   "photos": [
+    3,
+    9
+   ]
+  },
+  {
+   "id": "vintage",
+   "ko": "빈티지한",
+   "group": "분위기",
+   "score": 0.0747,
+   "photos": [
+    9,
+    6
+   ]
+  },
+  {
+   "id": "diligent",
+   "ko": "성실한",
+   "group": "성향",
+   "score": 0.049,
+   "photos": [
+    2,
+    1
+   ]
+  }
+ ],
+ "topics": {
+  "텍스트·공지": 3,
+  "음식·카페": 2,
+  "공부": 2,
+  "여행·풍경": 2
+ },
+ "tone": {
+  "label": "감성",
+  "scores": {
+   "전문적": 0.43,
+   "친근": 0.446,
+   "유머": 0.459,
+   "감성": 0.564,
+   "미니멀": 0.411
+  },
+  "length": 35,
+  "emoji": 3,
+  "hashtag": 0,
+  "link": false,
+  "job_keyword": false
+ },
+ "captions": [
+  "a cappuccino with a heart shape in the middle",
+  "woman writing in notebook",
+  "a brown couch",
+  "a field of blue flowers and a mountain in the background",
+  "a strawberry and cream dessert on a white plate",
+  "an old poster advertising the arts",
+  "a city skyline at sunset with the sun setting behind it",
+  "a painting of flowers in a vase on a table",
+  "a painting of a man sitting on a bed in a room"
+ ],
+ "cards": [
+  "G02",
+  "G03",
+  "G05",
+  "G06",
+  "G10",
+  "G12"
+ ]
+}
